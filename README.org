@@ -1,0 +1,10 @@
+* null-package
+
+Safe and robust S-Expression reader. Useful to read from unfailthfull stream/socket.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/null-package.git   |
+| commit  | aeff827  |
+| systems | null-package |
+|---------+-------------------------------------------|
+
